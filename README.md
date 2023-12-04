@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BigBami
-- 👀 I’m interested in Front End Development and Wordpress Development
+- 👀 I’m interested in Full Stack Development and Wordpress Development
 - 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on new startups in the Fintech, Autotech and Creative sector.
+- 💞️ I’m looking to collaborate on new startups in the Fintech, Auto tech, Media and the Creative sector.
 - 📫 How to reach me? akinoluadeyemi@gmail.com
 
 <!---
